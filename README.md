@@ -451,6 +451,9 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [Site Inspire](https://www.siteinspire.com/) - siteInspire is a showcase of the finest web and interactive design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web design Inspiration](http://www.webdesign-inspiration.com/) - Find inspiration for your next web design project. We help web designers, digital agencies and entrepreneurs to be inspired. Everyday, our team of experts hand picks the best new web designs from all over the world. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Behance](https://www.behance.net/) - Behance is a social media platform to showcase and discover creative work like Graphic Design, Illustration, Game Design and many more things ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [LandingFolio](https://landingfolio.com/) - Landingfolio features the best landing page inspiration, templates, resources and examples on the web. Learn from a growing library of 1,982 landing page designs and 3,829 component examples, updated daily! ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [UpLabs](https://www.uplabs.com/) - UpLabs curates the best of design & development inspiration, resources and freebies. Every day! ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [SketchRepo](https://sketchrepo.com/) - Sketch Repo is a great place to discover Sketch App resources for your next design project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 **[⬆ back to top](#table-of-contents)**
 
